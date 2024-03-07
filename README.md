@@ -31,6 +31,7 @@ Features:
 ## Thigs that could be improved
 
 Since the project was developed in a limited amount of time there are alot of things that could be improved but here are somethings that come to mind:
+* Using prefabs instead of the builder pattern is better.
 * The UI Animation system is currently very rigid and can only play the "Path" goal collection animation. This could be replaced with a proper animation system.
 * The Builder and Factory systems for board items could be improved.
 * The project has a very basic audio manager.
