@@ -10,6 +10,8 @@ Written with OOP artchitecture, it includes Patterns Such as:
 * Observer
 * Command
 * Singleton
+* Object Pooling
+* Flyweight
 
 Features:
 * Resizable Board, the board width and height values as well as the board placement can be adjusted from the level editor scriptable object.
